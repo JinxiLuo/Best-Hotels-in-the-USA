@@ -4,7 +4,7 @@
 
 ### Project Summary
 
-This project provides an example of the work layout that I use for my reports, which is available for viewing in the  pdfs attached (Visualization Project).
+This project provides an example of the work layout that I use for my reports, which is available for viewing in the  pdf attached (Visualization Project).
 
 The goal behind this project is to bring a new perspective into how data can be used to take finding a hotel to stay at to different level beyond common site filters. I had used review, climate, crime and geographic data from a range of sources to filter out the desired hotels. However, the same process can be repeated with different data depending on personal preferences.
 
