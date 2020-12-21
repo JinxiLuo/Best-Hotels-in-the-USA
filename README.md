@@ -10,7 +10,7 @@ This project provides an example of the work layout that I use for my reports, w
 
 ### Results
 
-![](Drag.jpg)
+![](dashboard.png)
 
 ### Structure and Procedures
 
