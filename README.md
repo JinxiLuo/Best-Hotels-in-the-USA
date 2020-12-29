@@ -2,7 +2,7 @@
 
 **Themes**: Python, Folium Maps, R, Photoshop/Paint, Visualization and Data analysis
 
-### Project Summar
+### Project Summary
 
 This project provides an example of the work layout that I use for my reports, which is available for viewing in the  pdf attached (Visualization Project).
 
@@ -12,7 +12,7 @@ The goal behind this project is to bring a new perspective into how data can be 
 
 The following image is a dashboard containing the major visualization and tables I had used to determine appropriate hotels to stay at.
 
-![](dashboard.png)
+![](dashboardFixed.png)
 
 Lastly below shows a simplified diagram of how I had used the different data sources to filter out hotels.
 
