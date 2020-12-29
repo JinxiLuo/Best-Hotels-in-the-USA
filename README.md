@@ -2,7 +2,7 @@
 
 **Themes**: Python, Folium Maps, R, Photoshop/Paint, Visualization and Data analysis
 
-### Project Summary
+### Project Summar
 
 This project provides an example of the work layout that I use for my reports, which is available for viewing in the  pdf attached (Visualization Project).
 
